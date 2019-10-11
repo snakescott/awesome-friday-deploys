@@ -35,7 +35,7 @@ Your contributions are always welcome! Please take a look at the
 first.
 
 I will keep some pull requests open if I'm not sure whether those resources are truly
-awesome tech postmortems, you could
+awesome, you could
 [vote for them](https://github.com/snakescott/awesome-friday-deploys/pulls) by adding
 :+1: to them.
 
