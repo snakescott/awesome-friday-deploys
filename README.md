@@ -27,6 +27,8 @@ and templated on [awesome-python](https://github.com/vinta/awesome-python).
   from Charity Majors
 - [Continuous Verification of Friday Deploys](http://willgallego.com/2019/08/23/continuous-verification-of-friday-deploys/)
   from Will Gallego
+- [Deploy on Fridays, or Don't.](https://hackernoon.com/deploy-on-fridays-or-dont-qg2y32jk)
+  from Dave Mangot
 
 # Contributing
 
